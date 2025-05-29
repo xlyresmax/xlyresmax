@@ -57,8 +57,8 @@ Check out my [Projects](https://github.com/xlyresmax?tab=repositories) to see wh
 ## 📢 Let's Connect! 
 
 <a href="https://github.com/xlyresmax"  target="_blank"><img src="https://img.icons8.com/glyph-neue/48/ffffff/github.png"  width="30"/></a>
-<a href="https://linkedin.com/in/your-link"  target="_blank"><img src="https://img.icons8.com/glyph-neue/48/ffffff/linkedin.png"  width="30"/></a>
-<a href="mailto:your-email@example.com" target="_blank"><img src="https://img.icons8.com/glyph-neue/48/ffffff/email.png"  width="30"/></a>
+<a href="https://linkedin.com/in/shadyxlyres"  target="_blank"><img src="https://img.icons8.com/glyph-neue/48/ffffff/linkedin.png"  width="30"/></a>
+<a href="mailto:xlyresplays.com" target="_blank"><img src="https://img.icons8.com/glyph-neue/48/ffffff/email.png"  width="30"/></a>
 
 Feel free to reach out for collaboration, questions, or just to say hi! 👋
 
