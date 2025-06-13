@@ -1,73 +1,91 @@
-# 👋 Hi there! I'm @xlyresmax  
-🧠 AI/ML Developer | 💻 Full-Stack Web Dev | 🚀 Innovator  
+<!-- 🌟 LORDxDEV-star Profile README 🌟 -->
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif"  width="400" />
-</div>
+<!-- 🌈 Animated Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=LORDxDEV-star&fontAlign=50&fontAlignY=40&color=gradient&desc=Building%20bots%20and%20communities%20with%20style!&descAlign=50&descAlignY=55" alt="header" />
+</p>
 
----
+<!-- ✍️ Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=Full-Stack+Developer;Discord+Bot+Developer;Open+Source+Contributor;Always+Learning+and+Creating" alt="Typing SVG" />
+</p>
 
-## 🔍 Who I Am
-
-A passionate developer crafting intelligent systems and scalable web applications. My work sits at the intersection of **Artificial Intelligence**, **Machine Learning**, and **Full-Stack Development**.
-
-🔧 I love building:
-- Smart models that learn and adapt 🤖
-- Beautiful and responsive user interfaces 💅
-- Robust backend systems and APIs ⚙️
-- End-to-end solutions from idea to deployment 🛠️
-
----
-
-## 🧰 Tech Stack
-
-### 🤖 AI / ML
-- Python, TensorFlow, PyTorch, Scikit-learn
-- NLP, Deep Learning, Data Analysis, Model Deployment
-
-### 💻 Web Development
-- **Frontend:** React.js, Next.js, Tailwind CSS, HTML/CSS, TypeScript
-- **Backend:** Node.js, Express.js, Flask, Django, REST APIs
-- **Databases:** MongoDB, PostgreSQL, Firebase
-
-### ⚙️ Tools & DevOps
-- Git, Docker, GitHub Actions, AWS, Linux
-- VS Code, Jupyter Notebook, Postman
+<!-- 💫 Welcome message -->
+<p align="center">
+  <samp>
+    Hey there! I'm <b>LORDxDEV-star</b> – crafting bots, learning, and building awesome communities. Let's collab and make something epic! 🚀
+  </samp>
+</p>
 
 ---
 
-## 🌐 What I'm Working On
-
-Check out my [Projects](https://github.com/xlyresmax?tab=repositories) to see what excites me:
-
-🚀 **AI-Powered Chatbot**  
-📊 **Interactive Dashboards with React + Plotly**  
-🛠️ **MERN Stack Applications**  
-📈 **Predictive Models using Real-World Datasets**
-
----
-
-## 📈 GitHub Stats 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlyresmax&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Streak](https://streak-stats.demolab.com?user=xlyresmax&theme=one-dark)](https://git.io/streak-stats)
+<!-- 🌐 Social Links -->
+<h2 align="center">🌐 Connect with Me</h2>
+<p align="center">
+  <a href="https://discord.gg/lunardevs" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.instagram.com/1lordxdev1/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCH_JJmX_ruacZaf0gdWQ6jQ" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
 
 ---
 
-## 📢 Let's Connect! 
-
-<a href="https://github.com/xlyresmax"  target="_blank"><img src="https://img.icons8.com/glyph-neue/48/ffffff/github.png"  width="30"/></a>
-<a href="https://linkedin.com/in/shadyxlyres"  target="_blank"><img src="https://img.icons8.com/glyph-neue/48/ffffff/linkedin.png"  width="30"/></a>
-<a href="mailto:xlyresplays.com" target="_blank"><img src="https://img.icons8.com/glyph-neue/48/ffffff/email.png"  width="30"/></a>
-
-Feel free to reach out for collaboration, questions, or just to say hi! 👋
+<!-- 🛠️ Tech Stack -->
+<h2 align="center">🛠️ My Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,discord,git,github,vscode,html,css" alt="Tech Stack" />
+</p>
 
 ---
 
-## 📜 License
+<!-- 📚 About Me -->
+<h2 align="center">📚 About Me</h2>
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+- 👋 Hi, I’m LORDxDEV-star  
+- 🔭 I’m working on advanced Discord bots, automation, and full-stack apps  
+- 🌱 Currently learning: Next.js, TypeScript, MongoDB advanced patterns  
+- 💬 Ask me about anything related to Discord bots, backend, or automation  
+- ⚡ Fun fact: I love adding animations to my work – it brings life to code!  
+- 🎯 Goal: Build communities, share knowledge, and level up together  
 
 ---
 
-> "The computer was born to solve one problem originally — how to predict the future." – Tim Berners-Lee
+<!-- 📈 GitHub Stats -->
+<h2 align="center">📈 My GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LORDxDEV-star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=15" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LORDxDEV-star&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LORDxDEV-star&theme=github_dark" alt="Profile Details" />
+</p>
+
+---
+
+<!-- 🌟 Contribution Graph -->
+<h2 align="center">🌟 Contribution Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LORDxDEV-star&bg_color=1e1e2f&color=58A6FF&line=00f7ff&point=ffffff&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+<!-- 🎨 Quote of the Day -->
+<h2 align="center">🎨 Quote of the Day</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Stay%20hungry,%20stay%20foolish!" alt="Quote of the Day" />
+</p>
+
+---
+
+<!-- 🎆 Final Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" alt="footer" />
+</p>
