@@ -2,7 +2,7 @@
 
 <!-- 🌈 Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=LORDxDEV-star&fontAlign=50&fontAlignY=40&color=gradient&desc=Building%20bots%20and%20communities%20with%20style!&descAlign=50&descAlignY=55" alt="header" />
+  <img src="" alt="header" />
 </p>
 
 <!-- ✍️ Typing animation -->
